@@ -1,22 +1,38 @@
-Hi, I'm David, a professional BI Analyst
+# 👋 Hi, I'm David – Business Intelligence Analyst  
 
-Currently, I am enrolled in the Business Intelligence Analyst course with TripleTen. My skills include business analytics, data visualization and storytelling, Python, SQL, Tableaue, and Power BI.
+## About Me  
+I am a **Business Intelligence Analyst** with a strong background in **data analytics, visualization, and storytelling**. My technical expertise includes **Python, SQL, Tableau, and Power BI**, enabling me to transform complex data into actionable insights.  
 
-Previous to my time at TripleTen I served in the U.S. Army as an Airborne Infantryman for 6 years, and a Security Force Advisor for 4 years. I served as a Senior Operations Advisor and deployed in support of Operations overseas where I leveraged my skills and knowledge as a Battlestaff Non-Commissioned Officer (NCO) to advise and assist foreign security forces and coalition forces. 
+Currently, I’m expanding my skills through the **Business Intelligence Analyst program at TripleTen**, where I’m refining my ability to extract meaningful insights from data.  
 
-My certificates include:
--Battlestaff NCO
--Advanced Situational Awareness Course
--Signal Advisor (Satellite Communications) Course
--Security Force Assistance Advisor Course
--Tactical Commbat Casualty Course (TCCC)
-Advanced Leaders Course
-Combat Lifesaver Course
-Basic Leaders Course
+Before transitioning into BI, I served **10 years in the U.S. Army**—6 years as an **Airborne Infantryman** and 4 years as a **Security Force Advisor**. As a **Senior Operations Advisor**, I deployed in support of overseas operations, leveraging my expertise as a **Battlestaff Non-Commissioned Officer (NCO)** to advise and assist foreign security forces and coalition partners.  
 
-Some facts about me:
--I love exercising, wether it is bodyweight exercises to train functional muscle groups and even weight lifting.
--I love cooking, from simple and delicious crockpot meals to cast iron dutch oven meals. 
--I am part of the Wisconsin American GI Forum and help other veterans navigate the resources available to them. 
+## 🎓 Certifications & Training  
+- 🏅 **Battlestaff NCO**  
+- 🔍 **Advanced Situational Awareness Course**  
+- 📡 **Signal Advisor (Satellite Communications) Course**  
+- 🎯 **Security Force Assistance Advisor Course**  
+- 🩺 **Tactical Combat Casualty Care (TCCC)**  
+- 🎖 **Advanced Leaders Course**  
+- ⛑ **Combat Lifesaver Course**  
+- 🎖 **Basic Leaders Course**  
 
-Feel free to contact me on GitHub or LinkedIn.
+## 🔍 Skills & Technologies  
+- **Business Intelligence & Data Analytics**  
+- **Data Visualization & Storytelling**  
+- **Python, SQL, Tableau, Power BI**  
+- **Strategic Planning & Operational Analysis**  
+- **Communication & Leadership**  
+
+## 📌 More About Me  
+- 💪 **Fitness Enthusiast** – I enjoy functional bodyweight training and weightlifting.  
+- 🍳 **Passionate Cook** – I love making everything from simple crockpot meals to cast iron Dutch oven dishes.  
+- 🎖 **Veteran Advocate** – As a member of the **Wisconsin American GI Forum**, I help fellow veterans access essential resources.  
+
+## 📫 Connect With Me  
+- 🔗 [LinkedIn](#) (www.linkedin.com/in/david-coria-7134472b8)  
+- 📧 [Email](mailto:your-email@example.com) (eliasarc1991@gmail.com)
+
+---
+
+Thanks for visiting my GitHub! Feel free to connect and collaborate. 🚀  
